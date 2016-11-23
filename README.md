@@ -1,0 +1,2 @@
+# php-pinger
+PING!
