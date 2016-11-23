@@ -1,2 +1,2 @@
-# php-pinger
-PING!
+# Pinger
+PHP PING!

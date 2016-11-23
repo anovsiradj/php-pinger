@@ -1,0 +1,13 @@
+{
+    "name": "anovsiradj/pinger",
+    "description": "PHP PING!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anovsiradj",
+            "email": "anov.siradj22@gmail.com"
+        }
+    ],
+    "require": {}
+}
