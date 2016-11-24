@@ -9,5 +9,8 @@
             "email": "anov.siradj22@gmail.com"
         }
     ],
+    "autoload": {
+        "classmap": ["Pinger.php"]
+    },
     "require": {}
 }
